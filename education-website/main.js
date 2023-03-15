@@ -14,7 +14,9 @@ faqs.forEach(faq => {
         const icon = feq.querySelector('.faq__icon i');
         if(icon.className === 'uil uil-plus') {
             icon.className = "uil uil-minus";
-        } 
+        } else{
+            icon.className = "uil uil-plus";
+        }
     })
 })
 
