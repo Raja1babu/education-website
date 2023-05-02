@@ -30,7 +30,7 @@
 ## 🏁 Getting Started <a name = "getting_started"></a>
 -Install the VS Code in the local machine where we can start the project for development and testing purposes.
 
-## 🏁 Getting Started <a name = "deployment"></a>
+## 🏁 Deployment <a name = "deployment"></a>
 - The project will be deploy on the live system by clicking "alt+l+alt+o"
 or on vs code clicking "go live"
 
