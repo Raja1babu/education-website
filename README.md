@@ -11,6 +11,7 @@
 <p align="center"> Responsive Multiple pages website using HTML, CSS, and JavaScript.
     <br> 
 </p>
+![Screenshot (757)](https://user-images.githubusercontent.com/115009377/235877846-910c8c95-869e-4873-8db6-c1d0828fbaac.png)
 
 ## 📝 Table of Contents
 - [About](#about)
