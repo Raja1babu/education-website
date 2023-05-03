@@ -21,6 +21,9 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
+![Screenshot (757)](https://user-images.githubusercontent.com/115009377/235877846-910c8c95-869e-4873-8db6-c1d0828fbaac.png)
+
+
 ## 🧐 About <a name = "about"></a>
 - Responsive Multiple pages website using HTML, CSS, and JavaScript.
 - There are different category of courses in this website.
