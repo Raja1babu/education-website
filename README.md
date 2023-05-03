@@ -21,8 +21,32 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
+## Home Page
 ![Screenshot (757)](https://user-images.githubusercontent.com/115009377/235877846-910c8c95-869e-4873-8db6-c1d0828fbaac.png)
 
+![Screenshot (758)](https://user-images.githubusercontent.com/115009377/235880513-b34d3bfe-ce3f-4426-aeab-af53b640eb3d.png)
+
+![Screenshot (759)](https://user-images.githubusercontent.com/115009377/235880602-959cce00-d15b-48c2-81f6-d712e0de2bb2.png)
+
+![Screenshot (760)](https://user-images.githubusercontent.com/115009377/235880742-e5ca1898-7393-407d-942c-956e1b6763ab.png)
+
+## Footer
+
+![Screenshot (761)](https://user-images.githubusercontent.com/115009377/235880873-fb0bab46-38f6-45f9-8078-0aafe519607e.png)
+
+## About Page
+
+![Screenshot (762)](https://user-images.githubusercontent.com/115009377/235881556-232b813a-c658-4f4f-9154-0d986b5af185.png)
+
+![Screenshot (763)](https://user-images.githubusercontent.com/115009377/235881636-d09d5903-0c33-4eb1-9bbd-61ba8e89bbc2.png)
+
+## Courses
+
+![Screenshot (764)](https://user-images.githubusercontent.com/115009377/235881918-98d00f99-bf0e-4e2c-b7c6-f4f0a1f7db60.png)
+
+## Contact
+
+![Screenshot (765)](https://user-images.githubusercontent.com/115009377/235882231-da5bc8e5-2c4b-4297-8f1c-fb4c8d8251d8.png)
 
 ## 🧐 About <a name = "about"></a>
 - Responsive Multiple pages website using HTML, CSS, and JavaScript.
