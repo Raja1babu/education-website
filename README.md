@@ -12,8 +12,6 @@
     <br> 
 </p>
 
-<img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot (757).png">
-
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
